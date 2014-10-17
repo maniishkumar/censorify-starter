@@ -1,0 +1,1 @@
+This application will help you to censorify the censored words from any text.
